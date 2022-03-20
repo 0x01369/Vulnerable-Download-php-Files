@@ -1,23 +1,23 @@
-# Vulnerabilities İn Websites Download php Files 
+# * Vulnerabilities İn Websites Download php Files 
 
-# Unfiltered Download php Files
+# * Unfiltered Download php Files
 
-# Lists
+# * Lists
 
 <a href="/Download/"><img class="icon" src="https://raw.githubusercontent.com/0x01369/Vulnerable-Download-php-Files/6ec44586f60b728ce176468da7ea983d50d7260b/folder-fill.svg" alt="Directory">Download</a>
 
-...
 
-# download.php
 
-# downloads.php
+# * download.php
 
-# force_download.php
+# * downloads.php
 
-# othr_dwnld .php
+# * force_download.php
 
-# dwnld.php
+# * othr_dwnld .php
 
-# dlf.php
+# * dwnld.php
+
+# * dlf.php
 
 ...
