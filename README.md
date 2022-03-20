@@ -4,7 +4,7 @@
 
 # Lists
 
-<a href="/Download/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory">Download</a>
+<a href="/Download/"><img class="icon" src="https://raw.githubusercontent.com/0x01369/Vulnerable-Download-php-Files/6ec44586f60b728ce176468da7ea983d50d7260b/folder-fill.svg" alt="Directory">Download</a>
 
 ...
 
