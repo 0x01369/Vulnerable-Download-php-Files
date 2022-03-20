@@ -5,7 +5,6 @@
 # * Lists
 
 Click
-| | |
 V V V
 
 
