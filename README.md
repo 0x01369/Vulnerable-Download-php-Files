@@ -1,6 +1,8 @@
-# * Vulnerabilities İn Websites Download php Files 
+# * Vulnerable download.php files
 
-# * Unfiltered Download php Files
+# * Examples of Vulnerable download.php files I've found on the Internet
+
+# * Fix Vulnerabilities in Download.php Files on Your Website
 
 A download.php file is a script that is used to allow users to download files from a server. This can be useful for allowing users to download documents, images, or other types of files from a website. However, if the download.php file is not properly secured, it can create a security vulnerability that can be exploited by attackers.
 
